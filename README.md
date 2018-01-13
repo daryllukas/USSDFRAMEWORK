@@ -2,11 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/Patrick1Rhode/USSDFRAMEWORK/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first server request starts from a 0 and it adds by one everytime you send the request to the server.
 
-### Markdown
+### Creating a menu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below we are creating a first menu the user is going to see, when he dials the short-code.
 
 ```markdown
 if($handler->getSequence()=="0"){
@@ -19,7 +19,7 @@ if($handler->getSequence()=="0"){
     }
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details email me sikalindapatrick@gmail.com
 
 ### Jekyll Themes
 
